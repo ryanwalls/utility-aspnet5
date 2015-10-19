@@ -1,12 +1,12 @@
 {
   "version": "1.0.0-*",
   "description": "utility_aspnet5 Class Library",
-  "authors": [ "Class Library template" ],
+  "authors": [ "Ryan Walls" ],
   "tags": [""],
   "projectUrl": "",
   "licenseUrl": "",
   "tooling": {
-    "defaultNamespace": "utility_aspnet5"
+    "defaultNamespace": "Utility"
   },
 
   "frameworks": {
